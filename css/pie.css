@@ -1,0 +1,29 @@
+
+.bg-pie {
+    background: #0d0d0d;
+}
+
+.contenedor-footer {
+    width: 100%;
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #0d0d0d;
+    color: #ffff;
+    font-size: 1rem;
+}
+
+.contenedor-footer .contacto {
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+.contenedor-footer .contacto a {
+    text-decoration: none;
+    color: #ffff;
+}
+
